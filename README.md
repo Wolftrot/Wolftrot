@@ -1,4 +1,4 @@
-# Welcome, I am Samy a Full Stack Developper
+# I am Samy, a Full Stack Developper
 
 ### About me
 :computer: **IT Technician specialized in Software development**
