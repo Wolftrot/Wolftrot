@@ -18,8 +18,8 @@
 ### Contact & Connect with me
 
 
-[<img src="https://img.icons8.com/color/1x/linkedin.png"/>](https://www.linkedin.com/in/samy-pelaez/)
-[<img src="https://img.icons8.com/color/1x/twitter-circled--v1.png"/>](https://www.linkedin.com/in/samy-pelaez/)
+[<img src="https://img.icons8.com/color/40/linkedin.png"/>](https://www.linkedin.com/in/samy-pelaez/)
+[<img src="https://img.icons8.com/color/40/twitter-circled--v1.png"/>](https://www.linkedin.com/in/samy-pelaez/)
 
 ### Most experience in
 
@@ -33,7 +33,7 @@
 - Win Envs
 - SysAdmin
 
-## Loves
+### Loves
 - Data potential
 - 3D Web
 - XR
