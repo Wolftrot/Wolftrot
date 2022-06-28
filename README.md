@@ -1,4 +1,7 @@
-### Hi there 👋
+# Welcome, I am Samy a Full Stack Developper
+
+:computer: **IT Technician specialized in Software development**
+
 
 <!--
 **Wolftrot/Wolftrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
