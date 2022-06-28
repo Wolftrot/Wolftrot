@@ -1,19 +1,41 @@
 # Welcome, I am Samy a Full Stack Developper
 
+### About me
 :computer: **IT Technician specialized in Software development**
 
+:book: **Initial Studies in economic sciences**
 
-<!--
-**Wolftrot/Wolftrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:sunglasses: **Passionate of new technologies**
 
-Here are some ideas to get you started:
+:oncoming_automobile: **Motorised**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:airplane: **Love traveling**
+
+:tent: **Taste for adventure**
+
+:mega: **Speaks and write Spanish, English and French**
+
+### Contact & Connect with me
+
+
+[<img src="https://img.icons8.com/color/1x/linkedin.png"/>](https://www.linkedin.com/in/samy-pelaez/)
+[<img src="https://img.icons8.com/color/1x/twitter-circled--v1.png"/>](https://www.linkedin.com/in/samy-pelaez/)
+
+### Most experience in
+
+- C#, PHP, JS, SQL and a bit of Python
+- Mobile Apps
+- Web Apps
+- Data Management Apps
+- Heavy Clients Apps
+- Relationnal Databases
+- AGILE / SCRUM
+- Win Envs
+- SysAdmin
+
+## Loves
+- Data potential
+- 3D Web
+- XR
+- BI
+
